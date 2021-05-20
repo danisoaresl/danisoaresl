@@ -1,4 +1,4 @@
-- Hi, I'm @danisoaresl
+- Hi
 - I am interested in working with development
 - I am currently learning phyton
 
