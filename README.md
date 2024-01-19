@@ -14,12 +14,8 @@ Hello !! 👋
 
 📫 How to contact me: https://www.linkedin.com/in/danisoaresl/
 
-😄 Pronouns: she/her;
-
-⚡ Curiosity: ?
-
-✨
+😄 Pronouns: she/he
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresllayout=compact)](https://github.com/danisoaresl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
