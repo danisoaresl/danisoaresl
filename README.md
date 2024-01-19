@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**danisoaresl/danisoaresl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ 
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as a freelance Web Developer; 
+- 🌱 I'm currently learning back-end;
+- 👯 I try to collaborate in teams that work with Software Engineering;
+- 🤔 I'm looking for help developing professionally with courses;
+- 💬 Ask me about my studies;
+- 📫 How to contact me: https://www.linkedin.com/in/danisoaresl/
+- 😄 Pronouns: she / her;
+- ⚡ Curiosity: learning about artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨
