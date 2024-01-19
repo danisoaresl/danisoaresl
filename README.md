@@ -21,5 +21,5 @@ Hello !! 👋
 ✨
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresllayout=compact)](https://github.com/danisoaresl/github-readme-stats)
 
