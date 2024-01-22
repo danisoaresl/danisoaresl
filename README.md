@@ -17,4 +17,3 @@
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/danisoaresl?label=Follow&style=social)](https://github.com/danisoaresl)
