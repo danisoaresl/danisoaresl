@@ -6,4 +6,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresl&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/danisoaresl/github-readme-stats)
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresl&layout=compact&theme=dracula)
