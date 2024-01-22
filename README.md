@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresl&theme=tokyonight)
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/danisoaresl?label=Follow&style=social)](https://github.com/danisoaresl)
