@@ -1,4 +1,6 @@
 
+danisoaresl-picdanisoaresl-Js danisoaresl-HTML danisoaesl-CSSdanisoaresl-pic
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danisoaresl&show_icons=true&theme=radical)
 
