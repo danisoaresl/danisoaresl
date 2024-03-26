@@ -12,6 +12,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
-![1710028661533](https://github.com/danisoaresl/danisoaresl/assets/84364512/d800886f-47d0-4034-8128-813b8f1d2d85)
-
 </p>
