@@ -3,4 +3,4 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresl&layout=compact&theme=dracula)
 
-https://github-readme-stats.vercel.app/api?username=danisoaresl_private=true&show_icons=true&line_height=20
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danisoaresl)](https://github.com/danisoaresl/github-readme-stats)
