@@ -3,4 +3,4 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danisoaresl&layout=compact&theme=dracula)
 
-[!(https://github-readme-stats.vercel.app/api?username=danisoaresl&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/danisoaresl)
+
